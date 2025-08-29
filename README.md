@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **TrinidadGabriel/TrinidadGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: (No se que poner)
@@ -13,4 +13,4 @@ Here are some ideas to get you started: (No se que poner)
 - 📫 How to reach me:  (Inserta texto)...
 - 😄 Pronouns:  (Inserta texto)...
 - ⚡ Dato curioso: HAy mas aviones en el mar que submarinos en el cielo
--->
+
